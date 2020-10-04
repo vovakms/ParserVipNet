@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pars01.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">логин</Value>
+    </Setting>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IP - сервера</Value>
+    </Setting>
+    <Setting Name="pas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">пароль</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
